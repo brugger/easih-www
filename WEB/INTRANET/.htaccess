@@ -1,0 +1,7 @@
+AuthUserFile /site/htdocs/INTRANET/.htpasswd
+AuthName "EASIH INTRANET"
+AuthType Basic
+<Limit GET>
+require valid-user
+</Limit>
+

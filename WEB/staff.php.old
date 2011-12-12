@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-gb">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="css/styles.css" rel="stylesheet" type="text/css" media="all" />
+<link rel="stylesheet" href="css/sifr.css" type="text/css">
+<script src="javascript/sifr.js" type="text/javascript"></script>
+<script src="javascript/sifr-config.js" type="text/javascript"></script>
+<title>Staff - EASIH</title>
+<meta name="Keywords" content="EASIH - The Eastern Sequence and Informatics Hub"  />
+<meta name="Description" content="EASIH - The Eastern Sequence and Informatics Hub"  />
+<meta name="language" content="en" />
+</head>
+
+<body>
+  <?php
+     include_once("header.php");
+     ?>
+  <div id="contentcontainer">
+    <div id="contentarea">
+      <div id="contentbanner"><h1>EASIH Staff Members</h1>
+      </div>
+      <table border="0" WIDTH="100%">
+	<TR><TD WIDTH="25%"</TD><TD WIDTH="75%"</TD></tr>
+				    <tr><td><b>John Todd</b></td><td><b>Director</b></td></tr>
+	  <td></td>
+	  <td>John Todd is Professor of Medical Genetics at Cambridge University, UK, and Director of the <a href="http://www-gene.cimr.cam.ac.uk/todd/">Juvenile Diabetes Research Foundation/Wellcome Trust Diabetes and Inflammation Laboratory</a> in the Cambridge Institute for Medical Research. Todd's research centres on the molecular genetic and mechanistic basis of the autoimmune, inflammatory disease, type 1 diabetes.</td>
+	</tr>
+
+	<center><tr><TH COLSPAN=2><h2>Sequencing Team</h2></th></tr></CENTER>
+<tr></tr>
+	<tr><td><b>Ilenia Simeoni</b></td><td><b>Research Associate</b></td></tr>
+	<tr><td></td><td>Ilenia gained her PhD in Molecular Medicine at the University of Siena in Italy where she was interested in a family of intracellular calcium release channels localised in skeletal and cardiac muscles. She then moved to Cambridge and spent seven years at the Gurdon Institute studying the role of a signalling pathway during the early stage of frog development. She also focused on the mechanisms of nuclear reprogramming. </td></tr>
+<tr></tr>
+
+	<tr><td><b>Owen McCann</b></td><td><b>Research Assistant</b></td></tr>
+	<tr><td></td><td>Owen spent 14 years working at the Wellcome Trust Sanger Institute initially in fingerprinting and map building for human chromosome 22 and 6 for the human genome project then later in sequence gap closure. More recently he has worked as QC production manager at the Sanger Institute’s large genotyping core facility.</td></tr>
+<tr></tr>
+	
+	<tr><td><b>Dominique McCormick</b></td><td><b>Research Assistant</b></td></tr>
+	<tr><td></td><td>Dominique received a BSc Honours degree from the University of KwaZulu-Natal in South Africa and worked in a commercial veterinary pathogen testing laboratory before moving to the UK.  For two years before joining the EASIH hub she worked as a research assistant in the Cystic Fibrosis Gene Medicine group in Oxford, where she was involved in assaying clinical trials samples.</td></tr>
+<tr></tr>
+
+	<center><tr><TH COLSPAN=2><h2>Data Analysis Team</h2></th></tr></CENTER>
+	
+	<tr><td><b>Anthony Rogers</b></td><td><b>Head of Bioinformatics</b></td></tr>
+	<tr><td></td><td>Anthony gained his PhD at the University of Leicester under Prof. Bambos kyriacou.  After a brief sojourn in the video game development industry Anthony join the Sanger Institute working for Richard Durbin on the WormBase project.  After 3 years he took over as the project manager. Whilst at the Sanger he also participated in the Gorilla genome sequencing project.</td></tr>
+<tr></tr>
+	<tr><td><b>Kim Brugger</b></td><td><b>Bioinformatician</b></td></tr>
+	<tr><td></td><td>Kim gained his PhD degree and Post doc at the University of Copenhagen in Denmark doing capillary sequencing and genomic analysis of Prokaryotic organisms. From there he moved to the Sanger Institute where he spent a year and a half working on the the reference genomes for human, mouse and zebrafish</td></tr>
+<tr></tr>
+	<tr><td><b>Chris Penkett</b></td><td><b>Bioinformatician</b></td></tr>
+	<tr><td></td><td>Chris gained his PhD at the University of Oxford studying structural biology.  After spending several years working in the pharmaceutical industry he joined the Sanger Institute, working as the bioinformatics support for the <i>S. pombe</i> analysis team focussing on gene expression and ChIP-chip microarrays. Before joining the EASIH, Chris worked at the European Bioinformatics Institute on the database of molecular structures.</td></tr>
+<tr></tr>	
+
+	<center><tr><TH COLSPAN=2><h2>Support Team</h2></th></tr></CENTER>
+  <tr><td><b>Selina Day</b></td><td><b>Adminstrator</td></tr>
+  <tr><td></td><td>Selina began her finance career at Barclays Bank. Whilst her children were young she worked at the European Bioinformatics Institute in Data submissions and studied for her BSc with the Open University. Selina returned to Finance and after 14 years in industry joined the EASIH from a large defence engineering firm where she was the Finance Manager. She is about to embark upon her MSc in Professional Science.</td></tr>
+<tr></tr>
+  
+  <tr><td><b>Robert Klima</b></td><td><b>Systems Adminstrator</b></td></tr>
+  <tr><td></td><td>Robert has spent the last 20 years in USA, firstly at Texas A&M University where he was instrumental in building their supercomputer infrastructure and supporting the Department of Chemistry.  He has also worked at Chicago University for 2 years, supporting the Human Genetics Department.</td></tr>
+  
+      </table> 
+    </div>
+    <div class="clearfloat"></div>
+  </div>
+</div>
+<?php
+   include_once("footer.php");
+   ?>
+</body>
+</html>
+

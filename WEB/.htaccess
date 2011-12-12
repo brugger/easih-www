@@ -1,0 +1,5 @@
+AddHandler application/x-httpd-php .php .phtml .html
+AddHandler application/x-httpd-php-source .phps
+AddType text/html .php .phtml .phps
+DirectoryIndex index.html index.php
+
