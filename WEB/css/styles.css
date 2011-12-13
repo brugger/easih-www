@@ -48,7 +48,7 @@ body {
 }
 
 #navarea {
-	width: 866px;
+	width: 943px;
 	height: 33px;
 	margin: 0px auto 0px auto;
 	padding: 21px 0px 0px 43px;
@@ -58,7 +58,7 @@ body {
 	position: relative;
 	margin: 0px;
 	padding: 0px 20px 0px 0px;
-	float: right;
+	float: centre;
 }
 
 #navarea ul li {
@@ -149,6 +149,20 @@ body {
 
 #navarea li.navarea-staff a:hover {
 	background-image: url('../images/staff-over.gif');
+}
+
+#navarea li.navarea-jobs a {
+	display: block;
+	width: 81px;
+	height: 16px;
+	background-image: url('../images/jobs.gif');
+	background-repeat: no-repeat;
+	background-position: top left;
+	text-decoration: none;
+}
+
+#navarea li.navarea-jobs a:hover {
+	background-image: url('../images/jobs-over.gif');
 }
 
 #navarea li.navarea-serviceinformation a {

@@ -27,10 +27,12 @@
 		  <p><a href="sequencingapplications.php">Sequencing Applications</a></p>
 		  <p><a href="publications.php">Publications</a></p>
 		  <p><a href="bioinformatics.php">BioInformatics</a></p>
-		  <p><a href="software.php">Software</a></p>
+<!--		  <p><a href="software.php">Software</a></p>   -->
 		  <p><a href="serviceinformation.php">Service Information</a></p>
+		  <p><a href="staff.php">Jobs</a></p>
+		  <p><a href="jobs.php">Jobs</a></p>
 		  <p><a href="enquiries.php">Enquiries</a></p>
-	    <p><a href="sitemap.php">Site Map</a></p>
+		  <p><a href="sitemap.php">Site Map</a></p>
 	    <p>&nbsp;</p>
 	    <p>&nbsp;</p>
 	    <p>&nbsp;</p>

@@ -17,7 +17,8 @@
 ?>
 			<li class="navarea-serviceinformation"><a href="serviceinformation.php" title="Service Information" tabindex="6" accesskey="6"><span class="hidden">Service Information</span></a></li>
 			<li class="navarea-staff"><a href="staff.php" title="Staff" tabindex="7" accesskey="7"><span class="hidden">Staff</span></a></li>
-			<li class="navarea-enquiries"><a href="enquiries.php" title="Enquiries" tabindex="8" accesskey="8"><span class="hidden">Enquiries</span></a></li>
+			<li class="navarea-jobs"><a href="jobs.php" title="Jobs" tabindex="8" accesskey="8"><span class="hidden">Jobs</span></a></li> 
+			<li class="navarea-enquiries"><a href="enquiries.php" title="Enquiries" tabindex="9" accesskey="9"><span class="hidden">Enquiries</span></a></li>
 			
 		</ul>
 	</div>
