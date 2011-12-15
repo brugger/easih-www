@@ -19,7 +19,7 @@
 <div id="contentcontainer">
   <div id="contentarea">
 	<div id="contentbanner"><h1>Sequencing Applications</h1></div>
-        <h3 class="indent">The EASIH operates instrumentation from all four of the major next-gen sequencing vendors. This allows us to provide a wide range of sequencing applications to fit your scientific needs. We can offer mate paired reads, single or paired end reads and multiplexing if you have a large number of samples.  Some of the sequencing applications that we can offer are:</h3>
+        <h3 class="indent">The EASIH operates instrumentation from all three of the major next-gen sequencing vendors. This allows us to provide a wide range of sequencing applications to fit your scientific needs. We can offer mate paired reads, single or paired end reads and multiplexing if you have a large number of samples.  Some of the sequencing applications that we can offer are:</h3>
   <div class="leftcol">
 	    <h4>Applications:</h4>
         <ul>
@@ -50,8 +50,8 @@
 	    <blockquote>ion torrent</blockquote>
        	    <a href="http://my454.com/products/gs-junior-system/index.asp" target="_blank"><img class="border" src="images/roche.jpg" width="241" height="142" border="0" alt="Roche" /></a>
             <blockquote>Roche</blockquote>
-       	    <a href="http://www.appliedbiosystems.com/absite/us/en/home/applications-technologies.html" target="_blank"><img class="border" src="images/appliedbio.jpg" width="241" height="142" border="0" alt="Applied Biosystems" /></a>
-            <blockquote>applied biosystems</blockquote>
+<!--       	    <a href="http://www.appliedbiosystems.com/absite/us/en/home/applications-technologies.html" target="_blank"><img class="border" src="images/appliedbio.jpg" width="241" height="142" border="0" alt="Applied Biosystems" /></a>
+            <blockquote>applied biosystems</blockquote> -->
     </div>
    	<div class="clearfloat"></div>
     </div>

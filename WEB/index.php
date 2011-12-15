@@ -43,13 +43,13 @@
         	<a href="enquiries.php"><img src="images/enquiry.gif" alt="Enquiry Link" /></a>
 			<div id="technologiesused">
                 <h4>TECHNOLOGIES USED:</h4>
-                <a href="sequencingapplications.php"><img src="images/solid4system.gif" width="86" height="129" alt="Solid 4 System" /></a>
-                <a href="sequencingapplications.php"><img src="images/PGM_icon.gif" width="86" height="129" alt="Ion Torrent PGM" /></a>  
-                <!--<a href="sequencingapplications.php"><img src="images/5500xl_icon.gif" width="86" height="129" alt="SOLiD 5500xl" /></a>-->      
-                <a href="sequencingapplications.php"><img src="images/gsjunior.gif" width="86" height="129" alt="GS Junior" /></a>
-		<a href="sequencingapplications.php"><img src="images/genomeanalyser.gif" width="86" height="129" alt="Genome Analyser" /></a>
+         <!--   <a href="sequencingapplications.php"><img src="images/solid4system.gif" width="86" height="129" alt="Solid 4 System" /></a> -->
+	 	<a href="sequencingapplications.php"><img src="images/genomeanalyser.gif" width="86" height="129" alt="Genome Analyser" /></a>
 		<a href="sequencingapplications.php"><img src="images/HiSeq2000-final.gif" width="86" height="129" alt="HiSeq2000" /></a>   
-			</div>
+                <a href="sequencingapplications.php"><img src="images/PGM_icon.gif" width="86" height="129" alt="Ion Torrent PGM" /></a>  
+         <!--   <a href="sequencingapplications.php"><img src="images/5500xl_icon.gif" width="86" height="129" alt="SOLiD 5500xl" /></a>    -->      
+                <a href="sequencingapplications.php"><img src="images/gsjunior.gif" width="86" height="129" alt="GS Junior" /></a>
+				</div>
         </div>
     	<div class="clearfloat"></div>
     </div>
