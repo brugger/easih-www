@@ -22,6 +22,13 @@
 	  <h1>Publications</h1>
 	</div>
         <h3 class="indent">
+<b>A Mutation in the Thyroid Hormone Receptor Alpha Gene.</b>
+<br/>
+<i>Bochukova E et al N Engl J Med. 2011 Dec 14 
+<br/>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed?term=22168587" target="_blank">[PMID:22168587]</a>
+</i> 
+<br/><br/>
 <b>Distinct epigenomic features in end-stage failing human hearts.</b>
 <br/>
 <i>Movassagh M et al incl Simeoni I, Penkett C, Circulation. 2011 Nov 29;124(22):2411-22.
