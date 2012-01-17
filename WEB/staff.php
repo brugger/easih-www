@@ -37,6 +37,12 @@
 	<tr><td></td><td>Ilenia gained her PhD in Molecular Medicine at the University of Siena in Italy where she was interested in a family of intracellular calcium release channels localised in skeletal and cardiac muscles. She then moved to Cambridge and spent seven years at the Gurdon Institute studying the role of a signalling pathway during the early stage of frog development. She also focused on the mechanisms of nuclear reprogramming. </td></tr>
 <tr></tr>
 
+
+	<tr><td><b>Howard Martin</b></td><td><b>Clinical Scientist</b></td></tr>
+	<tr><td></td><td>Howard gained his degree and PhD in the field of Biotechnology, from the University of Warwick. After relocating to Cambridge, he spent nine years as a Post Doctoral Research Associate at the University of Cambridge, investigating genetic control of embryological development, before joining the East Anglian Regional Molecular Genetics Laboratory at Addenbrooke’s Hospital  in 2003. As a state registered clinical scientist, he has experience of clinical diagnostic genetics, in addition to developing the high throughput sequencing facility within the clinical laboratories, and the implementation of new diagnostic assays and services. In association with the EASIH, he is currently developing next generation sequencing for clinical diagnostic use, in addition to collaborating on a number of medical next generation sequencing projects including X chromosome sequencing in patients with learning disability, HLA typing and HIV sequencing. </td></tr>
+<tr></tr>
+
+
 <!--	<tr><td><b>Owen McCann</b></td><td><b>Research Assistant</b></td></tr>
 	<tr><td></td><td>Owen spent 14 years working at the Wellcome Trust Sanger Institute initially in fingerprinting and map building for human chromosome 22 and 6 for the human genome project then later in sequence gap closure. More recently he has worked as QC production manager at the Sanger Institute’s large genotyping core facility.</td></tr>
 <tr></tr>
