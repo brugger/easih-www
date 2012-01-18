@@ -29,7 +29,7 @@
 		  <p><a href="bioinformatics.php">BioInformatics</a></p>
 <!--		  <p><a href="software.php">Software</a></p>   -->
 		  <p><a href="serviceinformation.php">Service Information</a></p>
-		  <p><a href="staff.php">Jobs</a></p>
+		  <p><a href="staff.php">Staff</a></p>
 		  <p><a href="jobs.php">Jobs</a></p>
 		  <p><a href="enquiries.php">Enquiries</a></p>
 		  <p><a href="sitemap.php">Site Map</a></p>
