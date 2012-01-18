@@ -329,6 +329,13 @@ body {
 	padding-right: 7px;
 }
 
+#tweets h4 {
+	font-size: 1.1em;
+	margin: 15px 0px 0px 0px;
+	padding: 0px;
+	color: #389fc4;
+}
+
 #homefooter {
 	width: 901px;
 	height: 66px;

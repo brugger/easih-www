@@ -41,15 +41,47 @@
 	  </div>
    		<div class="rightcol">
         	<a href="enquiries.php"><img src="images/enquiry.gif" alt="Enquiry Link" /></a>
-			<div id="technologiesused">
+		<div id="technologiesused">
                 <h4>TECHNOLOGIES USED:</h4>
          <!--   <a href="sequencingapplications.php"><img src="images/solid4system.gif" width="86" height="129" alt="Solid 4 System" /></a> -->
 	 	<a href="sequencingapplications.php"><img src="images/genomeanalyser.gif" width="86" height="129" alt="Genome Analyser" /></a>
 		<a href="sequencingapplications.php"><img src="images/HiSeq2000-final.gif" width="86" height="129" alt="HiSeq2000" /></a>   
                 <a href="sequencingapplications.php"><img src="images/PGM_icon.gif" width="86" height="129" alt="Ion Torrent PGM" /></a>  
          <!--   <a href="sequencingapplications.php"><img src="images/5500xl_icon.gif" width="86" height="129" alt="SOLiD 5500xl" /></a>    -->      
-                <a href="sequencingapplications.php"><img src="images/gsjunior.gif" width="86" height="129" alt="GS Junior" /></a>
-				</div>
+         <!--       <a href="sequencingapplications.php"><img src="images/gsjunior.gif" width="86" height="129" alt="GS Junior" /></a>      -->
+		</div>
+		<div id="tweets">
+		  <!--<h4>TWEETS:</h4> -->
+		  <br />
+		  <script src="http://widgets.twimg.com/j/2/widget.js"></script>
+		  <script>
+		    new TWTR.Widget({
+		    version: 2,
+		    type: 'profile',
+		    rpp: 3,
+		    interval: 30000,
+		    width: 280,
+		    height: 250,
+		    theme: {
+		    shell: {
+		    background: '#67c2e3',
+		    color: '#fcf9fc'
+		    },
+		    tweets: {
+		    background: '#f0f8fb',
+		    color: '#000005',
+		    links: '#8308f7'
+		    }
+		    },
+		    features: {
+		    scrollbar: true,
+		    loop: false,
+		    live: false,
+		    behavior: 'all'
+		    }
+		    }).render().setUser('EASIH1').start();
+		  </script>
+		</div>
         </div>
     	<div class="clearfloat"></div>
     </div>
