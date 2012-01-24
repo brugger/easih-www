@@ -65,7 +65,8 @@
 	<tr><td></td><td>Anna worked in a pharmaceutical laboratory for 1.5 years after finishing her A-levels, before working in the East Anglian Medical Genetics Service for 3.5 years whilst studying for her BSc (Hons) in Applied Biomedical Science. After this, she spent 2.5 years as a technician in Dr Stephen Sawcer's MS Genetics lab at the University of Cambridge before transferring to the EASIH in November 2011.</td></tr>
 <tr></tr>
 
-	<tr><td><b>Ruth Stephens</b></td><td><b>Senior Lab Technician</b></td></tr>
+<!--	<tr><td><b>Ruth Stephens</b></td><td><b>Senior Lab Technician</b></td></tr> -->
+	<tr><td><b>Ruth Littleboy</b></td><td><b>Senior Lab Technician</b></td></tr>
 	<tr><td></td><td>Ruth initially trained as a veterinary nurse and following some experience in a veterinary biochemistry lab, moved into human diagnostic biochemistry. After a prostate research project at Addenbrookes Biochemistry lab, Ruth moved to the NHS Molecular Genetics lab as a Genetic Technologist. Her main responsibilities involved extracting DNA from various sample types by automated and manual means, PCR , prepping sequencing samples and running the robots and Sanger sequencers. She was also responsible for the training of new members of staff in DNA extraction.</td></tr>
 <tr></tr>
 

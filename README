@@ -1,0 +1,8 @@
+# Check the files that will be copied across to live web with -n option
+~/public_html/easih-www/WEB$ rsync -r -v -n . www.easih.ac.uk://site/htdocs/
+
+
+# Copy across the files
+~/public_html/easih-www/WEB$ rsync -r -v . www.easih.ac.uk://site/htdocs/
+
+
