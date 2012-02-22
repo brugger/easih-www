@@ -72,7 +72,7 @@
 
 	<center><tr><TH COLSPAN=2><h2>Data Analysis Team</h2></th></tr></CENTER>
 
-	<tr><td><b>Kim Brugger</b></td><td><b>Bioinformatician</b></td></tr>
+	<tr><td><b>Kim Brugger</b></td><td><b>Head of Bioinformatics</b></td></tr>
 	<tr><td></td><td>Kim gained his PhD degree and Post doc at the University of Copenhagen in Denmark doing capillary sequencing and genomic analysis of Prokaryotic organisms. From there he moved to the Sanger Institute where he spent a year and a half working on the the reference genomes for human, mouse and zebrafish</td></tr>
 <tr></tr>
 	<tr><td><b>Chris Penkett</b></td><td><b>Bioinformatician</b></td></tr>
@@ -91,6 +91,10 @@ submissions and studied for her BSc with the Open University. Selina returned to
 <tr></tr>
  <tr><td><b>Karen Laurence</b></td><td><b>Senior Administrative Assistant</td></tr>
   <tr><td></td><td>Karen joined EASIH from the University of Cambridge, Institute of Metabolic Science where she worked alongside the Departmental Administrator.  Prior to this Karen was Assistant to the Office Manager at SQW Consulting, an international firm of Economic Management consultants, for 16 years.  During this time she gained vast experience in all aspects of office administration which are fully utilised by EASIH.</td></tr>
+<tr></tr>
+
+<tr><td><b>Sophie Broughton</b></td><td><b>Administrative Assistant</td></tr>
+  <tr><td></td><td>I started off working in a veterinary practice as a receptionist/auxiliary nurse. I used to assist surgeries, take blood from different animals and work in the pharmacy testing different types of samples. I then moved and worked at The Gurdon Institute for a year as an animal technician with mice. I then decided to move my career in a different path and looked towards admin, as I already have quite a lot of experience in that sector and thoroughly enjoy it. I am currently studying for my BSc (Hons) in Environmental Science with the Open University. I play the guitar in my spare time and have reached my grade 8 qualification.</td></tr>
 <tr></tr>
   
   <tr><td><b>Robert Klima</b></td><td><b>IT Systems Manager</b></td></tr>
