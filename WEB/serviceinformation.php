@@ -43,7 +43,8 @@
           <p><a href="docs/Sample Booking Form.doc">Sample Booking Form</a></p>
           <p><a href="docs/Sample Delivery Form.pdf">Sample Delivery Form</a></p>
           <p><a href="docs/EASIH_TandC.pdf">EASIH Terms and Conditions</a></p>
-          <p><a href="docs/Sequencing Services Information Sheet.pdf">Sequencing Services Information Sheet</a></p>
+<!--          <p><a href="docs/Sequencing Services Information Sheet.pdf">Sequencing Services Information Sheet</a></p>  -->
+          <p><a href="faq.php">Sequencing Services FAQ</a></p>
 		</div>
     </div>
     <div class="clearfloat"></div>
