@@ -185,7 +185,7 @@ Mate paired library with insert of size of 3-6kb or >6Kb can be generated from 4
    </h3>
 
    <br /><br /> 
-   <p>&nbsp;&#134;&nbsp;For a genreic view, please look at the <a href="http://genome.ucsc.edu/ENCODE/experiment_guidelines.html">ENCODE Guidelines for experiments.</a></p> 
+   <p>&nbsp;&#134;&nbsp;Current guidelines listed at the ENCODE could be useful:<a href="http://genome.ucsc.edu/ENCODE/experiment_guidelines.html">ENCODE Guidelines for experiments</a>.</p> 
    <br /><br />
 
   </div>  
