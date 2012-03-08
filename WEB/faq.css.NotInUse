@@ -1,0 +1,49 @@
+/* faq css*/
+/* Modified according to needs */
+/* OriginalRef:http://www.apaddedcell.com/creating-a-semantic-faq-page-with-definition-lists-and-advanced-css-part-2 */
+
+dt {
+        font-weight: bold; 
+        margin: 15px 40px 5px;
+        cursor: pointer;
+        text-decoration: underline;
+}
+
+        dt:before {
+                content: "Q";
+		font-size: 1.6em;
+		color: #FF9933;
+		margin-right: 7px;  
+                padding: 2px 6px 0px; 
+                background-image: url('../images/faq-Q-back.png');
+		font-weight: normal;
+		margin-left: -35px;
+                position: relative;
+		top: 5px;  
+        }
+
+
+dd {
+        font-size: 0.9em;
+        margin: 25px 70px 0px;
+	padding-bottom: 12px; 
+        line-height: 150%;      
+        }
+        
+        dd:before {
+                content: "A";
+                font-size: 1.6em; 
+		color: #33FF66;
+                margin-right: 7px;
+                padding: 2px 6px 0px;
+		background-image: url('../images/faq-A-back.png');
+                margin-left: -38px;
+                position: relative;
+                top: 5px; 
+        }
+
+.show {display: block;}
+.hide {display: none;}  
+
+/* End of faq css*/
+
