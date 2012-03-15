@@ -16,6 +16,7 @@
 	$briefdetails = "";
 	$anyotherinformation = "";
 	$sortfunc = "1";
+	$Subject  = '';
 	
 	if(isset($_POST["alldone"]))
 	{
@@ -38,7 +39,7 @@
 		$anyotherinformation = $_POST["anyotherinformation"];
 		
 		if($sortfunc != 4){ $Subject = "SPAM:";}
-		$To = "enquiries@easih.ac.uk";
+		$To = "easih.enquiries@gmail.com";
 		$From = "From: website@easih.ac.uk";
 		$Subject .= "Name: ".$name." - Enquiry from the EASIH website";
 
