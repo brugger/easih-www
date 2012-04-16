@@ -40,7 +40,7 @@
 		
 		if($sortfunc != 4){ $Subject = "SPAM:";}
 		$To = "easih.enquiries@gmail.com";
-		$From = "From: website@easih.ac.uk";
+		$From = "From: enquiries@easih.ac.uk";
 		$Subject .= "Name: ".$name." - Enquiry from the EASIH website";
 
 		$Contents = "The following enquiry was submitted on the EASIH website:\r\n";

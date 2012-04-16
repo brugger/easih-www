@@ -37,12 +37,6 @@
 	<tr><td></td><td>Ilenia gained her PhD in Molecular Medicine at the University of Siena in Italy where she was interested in a family of intracellular calcium release channels localised in skeletal and cardiac muscles. She then moved to Cambridge and spent seven years at the Gurdon Institute studying the role of a signalling pathway during the early stage of frog development. She also focused on the mechanisms of nuclear reprogramming. </td></tr>
 <tr></tr>
 
-
-	<tr><td><b>Howard Martin</b></td><td><b>Clinical Scientist</b></td></tr>
-	<tr><td></td><td>Howard gained his degree and PhD in the field of Biotechnology, from the University of Warwick. After relocating to Cambridge, he spent nine years as a Post Doctoral Research Associate at the University of Cambridge, investigating genetic control of embryological development, before joining the East Anglian Regional Molecular Genetics Laboratory at Addenbrooke’s Hospital  in 2003. As a state registered clinical scientist, he has experience of clinical diagnostic genetics, in addition to developing the high throughput sequencing facility within the clinical laboratories, and the implementation of new diagnostic assays and services. In association with the EASIH, he is currently developing next generation sequencing for clinical diagnostic use, in addition to collaborating on a number of medical next generation sequencing projects including X chromosome sequencing in patients with learning disability, HLA typing and HIV sequencing. </td></tr>
-<tr></tr>
-
-
 <!--	<tr><td><b>Owen McCann</b></td><td><b>Research Assistant</b></td></tr>
 	<tr><td></td><td>Owen spent 14 years working at the Wellcome Trust Sanger Institute initially in fingerprinting and map building for human chromosome 22 and 6 for the human genome project then later in sequence gap closure. More recently he has worked as QC production manager at the Sanger Institute’s large genotyping core facility.</td></tr>
 <tr></tr>
@@ -70,6 +64,14 @@
 	<tr><td></td><td>Ruth initially trained as a veterinary nurse and following some experience in a veterinary biochemistry lab, moved into human diagnostic biochemistry. After a prostate research project at Addenbrookes Biochemistry lab, Ruth moved to the NHS Molecular Genetics lab as a Genetic Technologist. Her main responsibilities involved extracting DNA from various sample types by automated and manual means, PCR , prepping sequencing samples and running the robots and Sanger sequencers. She was also responsible for the training of new members of staff in DNA extraction.</td></tr>
 <tr></tr>
 
+	<tr><td><b>Howard Martin</b></td><td><b>Clinical Scientist</b></td></tr>
+	<tr><td></td><td>Howard gained his degree and PhD in the field of Biotechnology, from the University of Warwick. After relocating to Cambridge, he spent nine years as a Post Doctoral Research Associate at the University of Cambridge, investigating genetic control of embryological development, before joining the East Anglian Regional Molecular Genetics Laboratory at Addenbrooke’s Hospital  in 2003. As a state registered clinical scientist, he has experience of clinical diagnostic genetics, in addition to developing the high throughput sequencing facility within the clinical laboratories, and the implementation of new diagnostic assays and services. In association with the EASIH, he is currently developing next generation sequencing for clinical diagnostic use, in addition to collaborating on a number of medical next generation sequencing projects including X chromosome sequencing in patients with learning disability, HLA typing and HIV sequencing. </td></tr>
+<tr></tr>
+
+	<tr><td><b>Javier Armisen Garrido</b></td><td><b>Research Associate</b></td></tr>
+	<tr><td></td><td>Javier gained his M.Sc and Ph.D in Cell and Molecular Biology at the University of Missouri-St. Louis working on gene expression regulation.  He then joined the Gurdon Institute in Cambridge studying the role of small RNAs during development with a strong focus on finding novel druggable targets to regulate small RNAs functions.</td></tr>
+<tr></tr>
+
 	<center><tr><TH COLSPAN=2><h2>Data Analysis Team</h2></th></tr></CENTER>
 
 	<tr><td><b>Kim Brugger</b></td><td><b>Head of Bioinformatics</b></td></tr>
@@ -79,8 +81,9 @@
 	<tr><td></td><td>Chris gained his PhD at the University of Oxford studying structural biology.  After spending several years working in the pharmaceutical industry he joined the Sanger Institute, working as the bioinformatics support for the <i>S. pombe</i> analysis team focussing on gene expression and ChIP-chip microarrays. Before joining the EASIH, Chris worked at the European Bioinformatics Institute on the database of molecular structures.</td></tr>
 <tr></tr>	
 	<tr><td><b>Sri Vishnu Vardhan Deevi </b></td><td><b>Bioinformatician</b></td></tr>
-	<tr><td></td><td>Sri obtained his Ph.D. in Bioinformatics from The University of Reading in 2008, under the supervision of Dr. Andrew Martin (UCL, London). His Ph.D., was titled “Automation of Protein Annotation to Scan for Potential Drug Targets — a Case Study of MEP Pathway and Apicoplast Proteins”, during which he developed tools such as APAT (Automated Protein Annotation Tool), TAPAS (Target Annotation Pipeline and Automated Selection – potential drug targets for SBDD) and a combined neural network predictor for enhancing the prediction of transmembrane proteins. He then worked as the data manager of the New Pipeline Group within the Sequencing Informatics Team at The Wellcome Trust Sanger Institute (2008-2011) and was associated with the Quality Control of High Throughput Illumina Sequencing Data before joining EASIH in March 2011.</td></tr>
+	<tr><td></td><td>Sri obtained his Ph.D. in Bioinformatics from The University of Reading in 2008. He then worked as the data manager of the New Pipeline Group within the Sequencing Informatics Team at The Wellcome Trust Sanger Institute (2008-2011) and was associated with the Quality Control of High Throughput Illumina Sequencing Data, before joining EASIH in March 2011.</td></tr>
 <tr></tr>	
+
 	<tr><td><b>Sam Haldenby</b></td><td><b>Bioinformatician</b></td></tr>
 	<tr><td></td><td>Sam carried out his PhD and Post doc at the University of Nottingham, studying the genetic pathways of homologous recombination and DNA repair in archaea. He then joined Source BioScience where he worked as an R&D scientist/bioinformatician, creating new software and analysing next generation sequencing data.</td></tr>
 <tr></tr>
@@ -89,6 +92,10 @@
   <tr><td></td><td>Selina began her finance career at Barclays Bank. Whilst her children were young she worked at the European Bioinformatics Institute in Data
 submissions and studied for her BSc with the Open University. Selina returned to Finance and after 14 years in industry joined the EASIH from a large defence engineering firm where she was the Finance Manager. She is currently studying for an MSc in Professional Science</td></tr>
 <tr></tr>
+
+  <tr><td><b>Robert Klima</b></td><td><b>IT Systems Manager</b></td></tr>
+  <tr><td></td><td>Robert has spent the last 20 years in USA, firstly at Texas A&M University where he was instrumental in building their supercomputer infrastructure and supporting the Department of Chemistry.  He has also worked at the University of Chicago for 2 years, supporting the Human Genetics Department.</td></tr>
+
  <tr><td><b>Karen Laurence</b></td><td><b>Senior Administrative Assistant</td></tr>
   <tr><td></td><td>Karen joined EASIH from the University of Cambridge, Institute of Metabolic Science where she worked alongside the Departmental Administrator.  Prior to this Karen was Assistant to the Office Manager at SQW Consulting, an international firm of Economic Management consultants, for 16 years.  During this time she gained vast experience in all aspects of office administration which are fully utilised by EASIH.</td></tr>
 <tr></tr>
@@ -97,8 +104,6 @@ submissions and studied for her BSc with the Open University. Selina returned to
   <tr><td></td><td>I started off working in a veterinary practice as a receptionist/auxiliary nurse. I used to assist surgeries, take blood from different animals and work in the pharmacy testing different types of samples. I then moved and worked at The Gurdon Institute for a year as an animal technician with mice. I then decided to move my career in a different path and looked towards admin, as I already have quite a lot of experience in that sector and thoroughly enjoy it. I am currently studying for my BSc (Hons) in Environmental Science with the Open University. I play the guitar in my spare time and have reached my grade 8 qualification.</td></tr>
 <tr></tr>
   
-  <tr><td><b>Robert Klima</b></td><td><b>IT Systems Manager</b></td></tr>
-  <tr><td></td><td>Robert has spent the last 20 years in USA, firstly at Texas A&M University where he was instrumental in building their supercomputer infrastructure and supporting the Department of Chemistry.  He has also worked at the University of Chicago for 2 years, supporting the Human Genetics Department.</td></tr>
   
       </table> 
     </div>
