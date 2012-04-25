@@ -71,6 +71,11 @@
 	<tr><td><b>Javier Armisen Garrido</b></td><td><b>Research Associate</b></td></tr>
 	<tr><td></td><td>Javier gained his M.Sc and Ph.D in Cell and Molecular Biology at the University of Missouri-St. Louis working on gene expression regulation.  He then joined the Gurdon Institute in Cambridge studying the role of small RNAs during development with a strong focus on finding novel druggable targets to regulate small RNAs functions.</td></tr>
 <tr></tr>
+	
+	<tr><td><b>Fay Veryard</b></td><td><b>Senior Lab Technician</b></td></tr>
+	<tr><td></td><td>Fay gained a degree in Forensic Science in 2008. She then moved to Cambridge to work as a Medical Laboratory Assistant in the NHS Haematology Lab. Her main duties were to process blood samples from the hospital and from GP surgeries. After a year Fay joined the East Anglian Medical Genetic Service as a Genetic Technologist.  Her duties included sample reception, DNA extraction, PCR, use of robots and the Sanger sequencers. After gaining 2.5 years of experience she moved to the EASIH lab.</td></tr>
+<tr></tr>
+
 
 	<center><tr><TH COLSPAN=2><h2>Data Analysis Team</h2></th></tr></CENTER>
 
