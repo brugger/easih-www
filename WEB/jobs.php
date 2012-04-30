@@ -29,7 +29,7 @@
 <!--		  <p><a href="http://www.jobs.cam.ac.uk/job/-10422/">Research Associate</a></p>
 		  <p><a href="http://www.jobs.cam.ac.uk/job/-10412/">Research Laboratory Technician</a></p>          -->
 		  <h4>IT</h4>
-		  <p>Sorry! None at the moment...</p>
+		  <p><a href="./docs/EASIH_IT_Systems_Manager.pdf">EASIH IT Systems Manager</a></p>
 		  <h4>Bioinformatics</h4>
 		  <p>Sorry! None at the moment...</p>
 <!--		  <p><a href="http://www.jobs.cam.ac.uk/job/20/">EASIH Bioinformatician</a></p>

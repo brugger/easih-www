@@ -61,7 +61,8 @@
 	 <br /><br />
 	 EASIH laboratory requires:
 	 <br />
-	 &bull; 4 μg of genomic DNA for Exome Enrichment sample preparation
+<!--	 &bull; 4 μg of genomic DNA for Exome Enrichment sample preparation -->
+         &bull; 3 μg of genomic DNA for Exome Enrichment sample preparation
 	 <br />
 	 &bull; 2 μg of genomic DNA for DNA sample preparation
        </dd>
