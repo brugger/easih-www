@@ -22,14 +22,14 @@
         <h3 class="indent">Here is a list of job opportunities available at EASIH</h3> 
 	  <div class="leftcol">
 		  <h4>Admin</h4>
-		  <p>Sorry! None at the moment...</p>
-<!--		  <p><a href="http://www.jobs.cam.ac.uk/job/-10392/">Scientific Administration Coordinator</a></p>   -->
+<!--		  <p>Sorry! None at the moment...</p>   -->
+		  <p><a href="./docs/EASIH_QualityManager.pdf">Quality Manager</a></p>
 		  <h4>Lab</h4>
 		  <p>Sorry! None at the moment...</p>
 <!--		  <p><a href="http://www.jobs.cam.ac.uk/job/-10422/">Research Associate</a></p>
 		  <p><a href="http://www.jobs.cam.ac.uk/job/-10412/">Research Laboratory Technician</a></p>          -->
 		  <h4>IT</h4>
-		  <p><a href="./docs/EASIH_IT_Systems_Manager.pdf">EASIH IT Systems Manager</a></p>
+		  <p><a href="./docs/EASIH_IT_Systems_Manager.pdf">IT Systems Manager</a></p>
 		  <h4>Bioinformatics</h4>
 		  <p>Sorry! None at the moment...</p>
 <!--		  <p><a href="http://www.jobs.cam.ac.uk/job/20/">EASIH Bioinformatician</a></p>
