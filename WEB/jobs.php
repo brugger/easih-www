@@ -23,13 +23,13 @@
 	  <div class="leftcol">
 		  <h4>Admin</h4>
 <!--		  <p>Sorry! None at the moment...</p>   -->
-		  <p>&bull; <a href="./docs/EASIH_QualityManager.pdf">Quality Manager</a></p>
+		  <p>&bull; <a href="http://www.jobs.cam.ac.uk/job/290/">Quality Manager</a> &nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp; <a href="./docs/EASIH_QualityManager.pdf">Further Particulars</a></p>
 		  <h4>Lab</h4>
 		  <p>Sorry! None at the moment...</p>
 <!--		  <p><a href="http://www.jobs.cam.ac.uk/job/-10422/">Research Associate</a></p>
 		  <p><a href="http://www.jobs.cam.ac.uk/job/-10412/">Research Laboratory Technician</a></p>          -->
 		  <h4>IT</h4>
-		  <p>&bull; <a href="http://www.jobs.ac.uk/job/AEJ638/easih-it-systems-manager/">IT Systems Manager</a> &nbsp;&nbsp;&nbsp;&nbsp;- <a href="./docs/EASIH_IT_Systems_Manager.pdf">Further Particulars</a></p>
+		  <p>&bull; <a href="http://www.jobs.cam.ac.uk/job/276/">IT Systems Manager</a> &nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp; <a href="./docs/EASIH_IT_Systems_Manager.pdf">Further Particulars</a></p>
 		  <h4>Bioinformatics</h4>
 		  <p>Sorry! None at the moment...</p>
 <!--		  <p><a href="http://www.jobs.cam.ac.uk/job/20/">EASIH Bioinformatician</a></p>

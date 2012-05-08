@@ -6,9 +6,9 @@
 <link rel="stylesheet" href="css/sifr.css" type="text/css" />
 <script src="javascript/sifr.js" type="text/javascript"></script>
 <script src="javascript/sifr-config.js" type="text/javascript"></script>
-<title>EASIH - The Eastern Sequence and Informatics Hub</title>
-<meta name="Keywords" content="EASIH - The Eastern Sequence and Informatics Hub"  />
-<meta name="Description" content="EASIH - The Eastern Sequence and Informatics Hub"  />
+<title>GMF - Genomic Medicine Facility</title>
+<meta name="Keywords" content="GMF - Genomic Medicine Facility"  />
+<meta name="Description" content="GMF - Genomic Medicine Facility"  />
 <meta name="language" content="en" />
 </head>
 
@@ -18,7 +18,7 @@
 ?>
 <div id="contentcontainer">
 	<div id="homebanner">
-    	<h1>EASIH</h1>
+    	<h1>GMF</h1>
         <h2>Part of Cambridge University</h2>
         <p>For <strong>fast</strong> and <strong>cost-effective production and analysis</strong> of large scale sequence-based datasets</p>
     </div>
@@ -27,7 +27,7 @@
           <p>The creation of the Eastern Sequence and Informatics Hub (EASIH) based on major funding from the <a href="http://www.mrc.ac.uk" target="_blank">MRC</a>, University of Cambridge and the <a href="http://www.cuh.org.uk/research/biomedicalcampus/biomedical_index.html" target="_blank">NIHR Cambridge Biomedical Research Centre</a>, will enable researchers working in our region to utilise a crucial 21st-century research approach in their studies. In collaboration with the nearby <a href="http://www.ebi.ac.uk" target="_blank">European Bioinformatics Institute</a>, an international centre for sequence data analysis, EASIH will also provide researchers with access to the tools and protocols required to analyse these complicated and large-scale datsets, and in the design and implementation of projects.</p>
             <p>EASIH, based at the <a href="http://www.cuh.org.uk/addenbrookes/addenbrookes_index.html" target="_blank">Cambridge University Addenbrooke's Hospital</a>, has a research development and strategic aim to apply HTS to routine medical diagnostic uses, in particular in HLA typing in transplantation and cord blood stem cells, and re-sequencing of disease genes in collaboration with <a href="http://www.nhsbt.nhs.uk/" target="_blank">NHS Blood and Transplant</a> and NHS Regional Clinical Genetics Services.</p>
 	    
-            <p><a href="docs/EASIH_map.pdf"> [click for map]</a><br>EASIH<br>
+            <p><a href="docs/EASIH_map.pdf"> [click for map]</a><br>GMF<br>
 	 University of Cambridge<br />
             Level 4, Laboratory Block
             Box 268 <br />
