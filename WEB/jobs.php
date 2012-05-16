@@ -23,7 +23,7 @@
 	  <div class="leftcol">
 		  <h4>Admin</h4>
 <!--		  <p>Sorry! None at the moment...</p>   -->
-		  <p>&bull; <a href="http://www.jobs.cam.ac.uk/job/290/">Quality Manager</a> &nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp; <a href="./docs/EASIH_QualityManager.pdf">Further Particulars</a></p>
+		  <p>&bull; <a href="http://www.jobs.cam.ac.uk/job/290/">Quality Manager</a> &nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp; <a href="./docs/FutherParticulars-QM.pdf">Further Particulars</a></p>
 		  <h4>Lab</h4>
 		  <p>Sorry! None at the moment...</p>
 <!--		  <p><a href="http://www.jobs.cam.ac.uk/job/-10422/">Research Associate</a></p>
