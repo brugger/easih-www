@@ -29,7 +29,10 @@
 <!--		  <p><a href="http://www.jobs.cam.ac.uk/job/-10422/">Research Associate</a></p>
 		  <p><a href="http://www.jobs.cam.ac.uk/job/-10412/">Research Laboratory Technician</a></p>          -->
 		  <h4>IT</h4>
-		  <p>&bull; <a href="http://www.jobs.cam.ac.uk/job/276/">IT Systems Manager</a> &nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp; <a href="./docs/EASIH_IT_Systems_Manager.pdf">Further Particulars</a></p>
+		  <p>Sorry! None at the moment...</p>
+<!--
+		  <p>&bull; <a href="http://www.jobs.cam.ac.uk/job/276/">IT Systems Manager</a> &nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp; <a href="./docs/EASIH_IT_Systems_Manager.pdf">Further Particulars</a></p>                                                          
+		                                                                                                    -->
 		  <h4>Bioinformatics</h4>
 		  <p>Sorry! None at the moment...</p>
 <!--		  <p><a href="http://www.jobs.cam.ac.uk/job/20/">EASIH Bioinformatician</a></p>
