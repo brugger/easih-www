@@ -66,7 +66,7 @@
 
 		if($Sflag == 0)
 		{		
-			mail($To, $Subject, "$Contents", $From); 
+ 			mail($To, $Subject, "$Contents", $From); 
 		}				
 
 	}
