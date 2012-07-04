@@ -185,6 +185,19 @@ Mate paired library with insert of size of 3-6kb or >6Kb can be generated from 4
       </dl>
    </h3>
 
+   <br /><br />
+
+   <h2 class="indent">&bull; Data Collection</h2>      
+    <h3 class="indent">
+      <dl id="DataCollection"> 
+	<dt>How do I collect my data?</dt>
+	<dd id="LinkAnswer"> Data can be downloaded from: <a href="https://data.easih.ac.uk">https://data.easih.ac.uk</a><br /><br />
+	  A download link specific to your project along with a username and password is provided to you when your data is ready.
+	</dd>
+      </dl>
+   </h3>
+    
+
    <br /><br /> 
    <p>&nbsp;&#134;&nbsp;Current guidelines listed at the ENCODE could be useful:<a href="http://genome.ucsc.edu/ENCODE/experiment_guidelines.html">ENCODE Guidelines for experiments</a>.</p> 
    <br /><br />
