@@ -36,7 +36,7 @@
             CB2 0QQ<br />
             UK </p>
             <p>Tel: +44 (0)1223 746768 <br />
-            Fax: +44 (0)1223 746777 <br />
+            Fax: +44 (0)1223 761086 <br />
             Email: <a href="mailto:enquiries@easih.ac.uk" target="_blank">enquiries@easih.ac.uk</a> </p>
 	  </div>
    		<div class="rightcol">
