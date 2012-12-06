@@ -22,6 +22,13 @@
 	  <h1>Publications</h1>
 	</div>
         <h3 class="indent">
+<b>Haploinsufficiency for AAGAB causes clinically heterogeneous forms of punctate palmoplantar keratoderma</b>
+<br/>
+<i>Pohler E et al Nature Genetics 2012 Oct 14; 44, 1272–1276
+<br/>
+<a href="http://www.ncbi.nlm.nih.gov/pubmed?term=22168587" target="_blank">[PMID:23064416]</a>
+</i> 
+<br/><br/>
 <b>A Mutation in the Thyroid Hormone Receptor Alpha Gene.</b>
 <br/>
 <i>Bochukova E et al N Engl J Med. 2011 Dec 14 
