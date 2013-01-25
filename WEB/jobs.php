@@ -22,9 +22,8 @@
         <h3 class="indent">Here is a list of job opportunities available at EASIH</h3> 
 	  <div class="leftcol">
 		  <h4>Admin</h4>
-<!--		  <p>Sorry! None at the moment...</p>   -->
-		  <p>&bull; <a href="http://www.jobs.cam.ac.uk/job/290/">Quality Manager</a> &nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp; <a href="./docs/FutherParticulars-QM.pdf">Further Particulars</a></p>
-		  <h4>Lab</h4>
+		  <p>Sorry! None at the moment...</p>   
+                  <h4>Lab</h4>
 		  <p>Sorry! None at the moment...</p>
 <!--		  <p><a href="http://www.jobs.cam.ac.uk/job/-10422/">Research Associate</a></p>
 		  <p><a href="http://www.jobs.cam.ac.uk/job/-10412/">Research Laboratory Technician</a></p>          -->
